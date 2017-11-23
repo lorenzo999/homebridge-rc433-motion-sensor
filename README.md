@@ -27,6 +27,7 @@ Accessory JSON config looks like:
       "name": "MotionSensor433MHz1",
       "pin": 2,
       "on": 5510485,
-      "off": 5510484
+      "off": 5510484,
+      "timerOff": 5000    // optional, time expressed in milliseconds
 }
 ```
